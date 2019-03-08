@@ -8,9 +8,9 @@ __*India*__
 ### Reading
 
 My favourite genres are:
--Sci-Fi
--Fantasy
--Thrillers
+- Sci-Fi
+- Fantasy
+- Thrillers
 
 ### Food
 
@@ -25,5 +25,5 @@ The best way to reach me is [on twitter](https://twitter.com/AgyeyArya)
 
 ### PS
 
-This made my day ![Big Hero](https://instagram.com/p/Buwcm4dgfQW/)
+This made my day ![Big Hero](https://www.instagram.com/p/Buwcm4dgfQW/)
 
