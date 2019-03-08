@@ -8,9 +8,9 @@ __*India*__
 ### Reading
 
 My favourite genres are:
-*Sci-Fi
-*Fantasy
-*Thrillers
+-Sci-Fi
+-Fantasy
+-Thrillers
 
 ### Food
 
