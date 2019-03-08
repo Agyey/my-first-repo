@@ -1,31 +1,29 @@
-# This is a large heading
+# Agyey Arya
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of *Ghaziabad*, in the state of __Uttar Pradesh__, in 
+__*India*__
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+My favourite genres are:
+*Sci-Fi
+*Fantasy
+*Thrillers
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+Cusines I like the best:
+1. Chinese
+1. Italian
+1. Indian
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an 
-image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to reach me is [on twitter](https://twitter.com/AgyeyArya)
 
-nano README.md
+### PS
+
+This made my day ![Big Hero](https://instagram.com/p/Buwcm4dgfQW/)
+
